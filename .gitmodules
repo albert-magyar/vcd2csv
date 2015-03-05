@@ -1,0 +1,3 @@
+[submodule "vcddiff"]
+	path = vcddiff
+	url = git@github.com:albert-magyar/vcddiff.git
