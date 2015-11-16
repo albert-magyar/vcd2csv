@@ -5,6 +5,8 @@ SRC=./src
 SRCS=$(SRC)/vcd2csv.cpp
 BINS=$(BIN)/vcd2csv
 
+INC=$(SRC)
+
 all: $(BINS)
 
 depend: $(BUILD)/.depend
